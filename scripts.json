@@ -15,4 +15,13 @@
       "description": "Описание нового скрипта"
     }
   ]
+},
+{
+      "name": "jnka",
+      "file": "dla adm.lua",
+      "version": "1.0",
+      "author": "Edward",
+      "description": "Описание нового скрипта"
+    }
+  ]
 }
