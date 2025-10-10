@@ -22,13 +22,6 @@
       "description": "Автоматически затачивает предметы"
     },
     {
-      "name": "Auto Spawn",
-      "file": "AutoSpawn - By Edward.luac",
-      "version": "1.0",
-      "author": "Edward",
-      "description": "Скрипт сам входит в игру и выбирает спавн (если есть VIP)."
-    },
-    {
       "name": "Auto Trade",
       "file": "AutoTrade By-Edward.luac",
       "version": "1.0",
