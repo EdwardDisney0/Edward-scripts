@@ -2,6 +2,7 @@
   "scripts": [
     {
       "name": "Auto Spawn",
+      "file": "AutoPrice By Edward.luac",
       "file": "AutoSpawn - By Edward.luac",
       "version": "1.0",
       "author": "Edward",
