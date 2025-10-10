@@ -1,11 +1,11 @@
 {
   "scripts": [
     {
-      "name": "AntiR",
-      "file": "AntiR.lua",
+      "name": "Auto Spawn",
+      "file": "AutoSpawn - By Edward.luac",
       "version": "1.0",
       "author": "Edward",
-      "description": "Cкрипт убирает меню когда на R нажимайте"
+      "description": "Скрипт сам входит в игру и выбирает спавн (если есть VIP) — больше никаких ручных нажатий"
     }
   ]
 }
