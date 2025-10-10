@@ -2,21 +2,21 @@
   "scripts": [
     {
       "name": "Auto Spawn",
-      "file": "AutoPrice By Edward.lua",
+      "file": "AutoPrice By Edward.luac",
       "version": "1.0",
       "author": "Edward",
       "description": "Скрипт сам входит в игру и выбирает спавн (если есть VIP) — больше никаких ручных нажатий"
     },
     {
       "name": "Fast Buy",
-      "file": "Fast Buy-By Edward.lua",
+      "file": "Fast Buy-By Edward.luac",
       "version": "1.2",
       "author": "Edward",
       "description": "Скрипт создан специально для тех, кто занимается перепродажей."
     },
     {
       "name": "Sell Logger",
-      "file": "Sell Logger By-Edward.lua",
+      "file": "Sell Logger By-Edward.luac",
       "version": "1.7",
       "author": "Edward",
       "description": "Скрипт для отслеживания и сохранения истории СКУПКИ в лавке"
