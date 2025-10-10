@@ -23,10 +23,10 @@
     },
     {
       "name": "Binder",
-      "file": "autofish.lua",
+      "file": "binder.lua",
       "version": "3.1",
       "author": "YourName",
-      "description": "Автоматическая рыбалка"
-      
+      "description": "Скрипт для биндов"
+    }
   ]
 }
