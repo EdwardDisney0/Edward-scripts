@@ -20,6 +20,13 @@
       "version": "1.7",
       "author": "Edward",
       "description": "Скрипт для отслеживания и сохранения истории СКУПКИ в лавке"
+    },
+    {
+      "name": "12",
+      "file": "11.lua"
+      "version": "1.7",
+      "author": "Edward",
+      "description": "Хуйми Дисней"
     }
-  ]
+   ]
 }
