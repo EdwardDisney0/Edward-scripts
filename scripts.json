@@ -1,27 +1,32 @@
 {
   "scripts": [
     {
-      "name": "Старый скрипт",
-      "file": "old.lua",
+      "name": "Авто-хил",
+      "file": "autoheal.lua",
       "version": "1.0",
-      "author": "Вы",
-      "description": "Старое описание"
+      "author": "YourName",
+      "description": "Автоматическое лечение при HP < 50"
     },
     {
-      "name": "НОВЫЙ СКРИПТ",
-      "file": "dla adm.lua",
-      "version": "1.0",
-      "author": "Edward",
-      "description": "Описание нового скрипта"
-    }
-  ]
-},
-{
-      "name": "jnka",
-      "file": "dla adm.lua",
-      "version": "1.0",
-      "author": "Edward",
-      "description": "Описание нового скрипта"
+      "name": "Биндер",
+      "file": "binder.lua",
+      "version": "2.5",
+      "author": "YourName",
+      "description": "Биндер команд на клавиши"
+    },
+    {
+      "name": "АФК бот",
+      "file": "afkbot.lua",
+      "version": "1.2",
+      "author": "YourName",
+      "description": "Защита от кика за неактивность"
+    },
+    {
+      "name": "Авто-рыбалка",
+      "file": "autofish.lua",
+      "version": "3.1",
+      "author": "YourName",
+      "description": "Автоматическая рыбалка"
     }
   ]
 }
