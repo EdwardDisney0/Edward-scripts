@@ -16,14 +16,14 @@
     },
     {
       "name": "Авто-рыбалка",
-      "file": "autofish.lua",
+      "file": "dla adm.lua",
       "version": "3.1",
       "author": "YourName",
       "description": "Автоматическая рыбалка"
     },
     {
       "name": "Binder",
-      "file": "binder.lua",
+      "file": "Binder.lua",
       "version": "3.1",
       "author": "YourName",
       "description": "Скрипт для биндов"
