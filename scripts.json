@@ -2,7 +2,7 @@
   "scripts": [
     {
       "name": "Auto Spawn",
-      "file": "AutoPrice By Edward.luac",
+      "file": "AutoSpawn - By Edward.luac",
       "version": "1.0",
       "author": "Edward",
       "description": "Скрипт сам входит в игру и выбирает спавн (если есть VIP) — больше никаких ручных нажатий"
