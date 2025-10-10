@@ -1,0 +1,11 @@
+{
+  "scripts": [
+    {
+      "name": "Тестовый скрипт",
+      "file": "test.lua",
+      "version": "1.0",
+      "author": "Ваш ник",
+      "description": "Описание скрипта"
+    }
+  ]
+}
