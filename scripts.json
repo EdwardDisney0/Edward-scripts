@@ -11,14 +11,14 @@
       "name": "Auto Open Roulettes",
       "file": "AutoOpenRoulettes.lua",
       "version": "1.0",
-      "author": "Edward",
+      "author": "Svor Fix By Edward",
       "description": "Автоматически открывает рулетки"
     },
     {
       "name": "Auto Sharpening",
       "file": "AutoSharpening.lua",
       "version": "1.0",
-      "author": "Edward",
+      "author": "Svor",
       "description": "Автоматически затачивает предметы"
     },
     {
@@ -46,7 +46,7 @@
       "name": "Chat Calculator V3",
       "file": "Chat-Calculator v3.lua",
       "version": "1.0",
-      "author": "Edward",
+      "author": "Adrian G.",
       "description": "Позволяет делать расчёты прямо в чате."
     },
     {
@@ -102,7 +102,7 @@
       "name": "Mining Tools Fix",
       "file": "Mining tools -- Fix By Edward.lua",
       "version": "1.0",
-      "author": "justfedotScript",
+      "author": "justfedotScript Fix By Edward",
       "description": "В один клик собрать прибыль с видеокарты"
     },
     {
@@ -144,7 +144,7 @@
       "name": "Alt Enter",
       "file": "alt_enter.lua",
       "version": "1.0",
-      "author": "Edward",
+      "author": "sᴀxᴏɴ",
       "description": "Скрипт блокирует прислушивание нажатия."
     },
     {
@@ -165,14 +165,14 @@
       "name": "Auto Buy Carplates",
       "file": "autoBuyCarplates.lua",
       "version": "1.0",
-      "author": "Edward",
+      "author": "Svor Fix By Edward",
       "description": "Автоматически покупает и применяет номера на автомобили."
     },
     {
       "name": "Call",
       "file": "call.lua",
       "version": "1.0",
-      "author": "Edward",
+      "author": "Svor Fix By Edward",
       "description": "Скрипт позволяет быстро звонить другим игрокам по их ID, а также удобно завершать звонок."
     }
   ]
