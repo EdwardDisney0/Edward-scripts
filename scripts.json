@@ -20,6 +20,13 @@
       "version": "3.1",
       "author": "YourName",
       "description": "Автоматическая рыбалка"
-    }
+    },
+    {
+      "name": "Binder",
+      "file": "autofish.lua",
+      "version": "3.1",
+      "author": "YourName",
+      "description": "Автоматическая рыбалка"
+      
   ]
 }
