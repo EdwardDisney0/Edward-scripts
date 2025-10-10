@@ -5,21 +5,21 @@
       "file": "AntiR.lua",
       "version": "1.0",
       "author": "Edward",
-      "description": "Скрипт для автоматического устранения различных ограничений в игре."
+      "description": "Cкрипт убирает меню когда на R нажимайте"
     },
     {
       "name": "Auto Open Roulettes",
       "file": "AutoOpenRoulettes.lua",
       "version": "1.0",
       "author": "Edward",
-      "description": "Автоматически открывает рулетки и управляет шансами выпадения."
+      "description": "Автоматически открывает рулетки"
     },
     {
       "name": "Auto Sharpening",
       "file": "AutoSharpening.lua",
       "version": "1.0",
       "author": "Edward",
-      "description": "Автоматически затачивает предметы и управляет их прочностью."
+      "description": "Автоматически затачивает предметы"
     },
     {
       "name": "Auto Spawn",
@@ -33,14 +33,14 @@
       "file": "AutoTrade By-Edward.luac",
       "version": "1.0",
       "author": "Edward",
-      "description": "Автоматизирует процесс обмена и торговли между игроками."
+      "description": "Скрипт автоматически принимает трейды"
     },
     {
       "name": "Biz Location",
       "file": "Biz-Location-By-Edward.luac",
       "version": "1.0",
       "author": "Edward",
-      "description": "Помогает находить и управлять бизнес-локациями."
+      "description": "Показ расположений и информации о бизнесах."
     },
     {
       "name": "Chat Calculator V3",
@@ -61,49 +61,49 @@
       "file": "Freeze.lua",
       "version": "1.0",
       "author": "Edward",
-      "description": "Позволяет замораживать определённые процессы или игроков."
+      "description": "Позволяет замораживать игрока."
     },
     {
       "name": "Gift Swap",
       "file": "Gift Swap.luac",
       "version": "1.0",
       "author": "Edward",
-      "description": "Упрощает обмен подарками между игроками."
+      "description": "Автоматический обмен и открытие подарков"
     },
     {
       "name": "House Location Manager",
       "file": "House-Location-Manager.luac",
       "version": "1.0",
       "author": "Edward",
-      "description": "Управляет домами и их координатами на карте."
+      "description": "Автоматическое отображение ID домов и их расположений."
     },
     {
       "name": "Items Mover",
       "file": "ItemsMover.lua",
       "version": "1.0",
       "author": "Edward",
-      "description": "Перемещает предметы между слотами или инвентарями."
+      "description": "Cкрипт для автоматического перемещения всего стака предмета"
     },
     {
       "name": "Loger NFTCont",
       "file": "Loger NFTCont - By Edward.luac",
       "version": "1.0",
       "author": "Edward",
-      "description": "Отслеживает NFT-предметы в игре."
+      "description": "Автоматический логгер призов из NFT-контейнеров"
     },
     {
       "name": "Logger Klad",
       "file": "Logger Klad - By Edward.luac",
       "version": "1.0",
       "author": "Edward",
-      "description": "Собирает и сохраняет данные о кладах."
+      "description": "Логгер призов с кладов и Автосбор призов сразу после открытия"
     },
     {
       "name": "Mining Tools Fix",
       "file": "Mining tools -- Fix By Edward.lua",
       "version": "1.0",
-      "author": "Edward",
-      "description": "Исправляет и улучшает инструменты для майнинга."
+      "author": "justfedotScript",
+      "description": "В один клик собрать прибыль с видеокарты"
     },
     {
       "name": "Sell Logger",
@@ -117,42 +117,49 @@
       "file": "SkinControl-By Edward.luac",
       "version": "1.0",
       "author": "Edward",
-      "description": "Управляет внешним видом и скинами персонажа."
+      "description": "Управляет внешним скинами персонажа."
     },
     {
       "name": "Skip Dialog For Plante",
       "file": "Skip Dialog for Plante-By Edward.luac",
       "version": "1.0",
       "author": "Edward",
-      "description": "Пропускает диалоги и ускоряет взаимодействие с растениями."
+      "description": "Кнопка 2 работает только для управления шасси"
     },
     {
       "name": "Tax Calc",
       "file": "TaxCalc.lua",
       "version": "1.0",
       "author": "Edward",
-      "description": "Вычисляет налоги для различных внутриигровых операций."
+      "description": "Вычисляет налоги"
     },
     {
       "name": "Vip Piar",
       "file": "Vip Piar - By Edward.luac",
       "version": "1.0",
       "author": "Edward",
-      "description": "Автоматически активирует и управляет VIP-системой."
+      "description": "Авто Пиар"
     },
     {
       "name": "Alt Enter",
       "file": "alt_enter.lua",
       "version": "1.0",
       "author": "Edward",
-      "description": "Переключает режимы окна и полноэкранного отображения."
+      "description": "Скрипт блокирует прислушивание нажатия."
     },
     {
       "name": "Anti Lomka",
       "file": "anti lomka.lua",
       "version": "1.0",
       "author": "Edward",
-      "description": "Предотвращает ломку персонажа и сбои в управлении."
+      "description": "Если у вас будет ломка скрипт сам юзает нарко моментально без задержки"
+    },
+    {
+      "name": "Reserve",
+      "file": "Reserve.lua",
+      "version": "1.0",
+      "author": "Edward",
+      "description": " скрипт позволяет снять деньги с вашего резервного счёта в одну команду "
     },
     {
       "name": "Auto Buy Carplates",
@@ -166,7 +173,7 @@
       "file": "call.lua",
       "version": "1.0",
       "author": "Edward",
-      "description": "Управляет телефонными вызовами и контактами."
+      "description": "Скрипт позволяет быстро звонить другим игрокам по их ID, а также удобно завершать звонок. Полезно быстрой связи."
     }
   ]
 }
