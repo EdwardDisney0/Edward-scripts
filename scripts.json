@@ -1,32 +1,25 @@
 {
   "scripts": [
     {
-      "name": "Старый скрипт",
-      "file": "old.lua",
+      "name": "Auto Spawn",
+      "file": "AutoPrice By Edward.lua",
       "version": "1.0",
-      "author": "Вы",
-      "description": "Старое описание"
+      "author": "Edward",
+      "description": "Скрипт сам входит в игру и выбирает спавн (если есть VIP) — больше никаких ручных нажатий «Войти»!"
     },
     {
-      "name": "НОВЫЙ СКРИПТ",
-      "file": "new_script.lua",
-      "version": "1.0",
-      "author": "Ваш ник",
-      "description": "Описание нового скрипта"
+      "name": "Fast Buy",
+      "file": "Fast Buy-By Edward.lua",
+      "version": "1.2",
+      "author": "Edward",
+      "description": "Скрипт создан специально для тех, кто занимается перепродажей."
     },
     {
-      "name": "Авто-рыбалка",
-      "file": "dla adm.lua",
-      "version": "3.1",
-      "author": "YourName",
-      "description": "Автоматическая рыбалка"
-    },
-    {
-      "name": "Binder",
-      "file": "Binder.lua",
-      "version": "3.1",
-      "author": "YourName",
-      "description": "Скрипт для биндов"
+      "name": "Sell Logger",
+      "file": "Sell Logger By-Edward.lua",
+      "version": "1.7",
+      "author": "Edward",
+      "description": "Скрипт для отслеживания и сохранения истории СКУПКИ в лавке"
     }
   ]
 }
