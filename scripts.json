@@ -218,7 +218,7 @@
     },
     {
     "name": "Fast Gun",
-    "file": "Fast-Gun.luac",
+    "file": "Fast gun.luac",
     "version": "1.0",
     "author": "Edward",
     "description": "Мгновенное получение оружия по бинду без открытия инвентаря.",
