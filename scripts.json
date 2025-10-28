@@ -236,7 +236,7 @@
     },
     {
   "name": "Money Separator",
-  "file": "MoneySeparator - By Edward.luac",
+  "file": "MoneySeparator.luac",
   "version": "1.2",
   "author": "Edward",
   "description": "Скрипт форматирует деньги в текстдравах и диалогах — делает суммы аккуратными и легко читаемыми.",
