@@ -281,13 +281,13 @@
       "telegram": "https://t.me/edward_scripts"
     },
     {
-      "name": "anti afk",
+      "name": "Anti AFK",
       "file": "ArzFAntiAFK.asi",
       "version": "1.5",
       "author": "Edward",
-      "description": "ASI плагин",
+      "description": "ASI плагин для анти-афк",
       "install_type": "root",
-      "info": "Требует перезапуск игры",
+      "info": "Требует перезапуск игры через /q",
       "telegram": "https://t.me/edward_scripts"
     }
   ]
