@@ -279,6 +279,16 @@
       "install_type": "cleo",
       "info": "Это CLEO скрипт",
       "telegram": "https://t.me/edward_scripts"
+    },
+    {
+      "name": "anti afk",
+      "file": "#ArzFAntiAFK.asi",
+      "version": "1.5",
+      "author": "Edward",
+      "description": "ASI плагин",
+      "install_type": "root",
+      "info": "Требует перезапуск игры",
+      "telegram": "https://t.me/edward_scripts"
     }
   ]
 }
