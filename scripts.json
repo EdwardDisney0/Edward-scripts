@@ -282,7 +282,7 @@
     },
     {
       "name": "anti afk",
-      "file": "#ArzFAntiAFK.asi",
+      "file": "ArzFAntiAFK.asi",
       "version": "1.5",
       "author": "Edward",
       "description": "ASI плагин",
