@@ -276,15 +276,7 @@
     "telegram": "https://t.me/edward_scripts/45"
     },
 
-{
-  "name": "Radius Lavki",
-  "file": "Radius Lavki - Rodina RP.luac",
-  "version": "1.0",
-  "author": "Double Tap",
-  "description": "Отображение радиуса и зон лавок",
-  "info": "Radius Lavki — полезный инструмент для торговли!\nСкрипт показывает точный радиус других лавок на карте.\n\n— Отображение радиуса лавок в реальном времени\n— Белая зона означает свободное место\n— Вы точно знаете, где можно поставить переносную лавку\n— Удобное управление через команду /rl",
-  "telegram": "https://t.me/edward_scripts"
-},
+
     
     {
   "name": "Dance.cs",
