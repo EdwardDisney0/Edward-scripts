@@ -169,7 +169,8 @@
     },
     {
       "name": "Alt Enter",
-      "file": "alt_enter.lua",
+      "file": "MoneySeparator.luac",
+      "old_file": "alt_enter.lua",
       "version": "1.0",
       "author": "sᴀxᴏɴ",
       "description": "Блокирует реакцию игры на нажатие Alt+Enter.",
