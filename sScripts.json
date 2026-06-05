@@ -199,6 +199,7 @@
     {
       "name": "Call",
       "file": "Call By Edward.luac",
+      "old_file": "call.lua",
       "version": "1.0",
       "author": "By Edward",
       "description": "Позволяет звонить игрокам по ID и завершать звонок одной кнопкой.",
