@@ -443,7 +443,7 @@
 },
     {
 "name": "Truck Helper",
-"file": "TruckHelper.luac",
+"file": "Truck Helper.luac",
 "version": "1.0",
 "author": "Stalin",
 "description": "Помощник дальнобойщика: считает доход, подсказывает лучшие заказы и ведёт статистику работы.",
