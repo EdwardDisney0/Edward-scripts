@@ -497,7 +497,7 @@
 },
   {
 "name": "BarrelSell",
-"file": "BarrelSell.luaс",
+"file": "BarrelSell.luac",
 "version": "1.0",
 "author": "Edward",
 "description": "Автоматизирует работу с продажей бочек.",
