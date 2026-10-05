@@ -8,6 +8,7 @@ bitex.lua
 cdefs.lua
 cimguidx9.dll
 cjson.dll
+json.lua
 class.lua
 colorise.lua
 copas.lua
