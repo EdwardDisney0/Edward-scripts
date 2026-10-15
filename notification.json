@@ -1,5 +1,5 @@
 {
   "enabled": true,
-  "pass": "Mining Tools",
-  "message": "Mining Tools теперь доступен на Mobile!\n\nМобильная версия скрипта сохраняет весь функционал ПК-версии.\n\nСкачать можно через @Edward_Scripts_Bot. Для работы необходим лаунчер с поддержкой MonetLoader."
+  "pass": true,
+  "message": "Обновлён скрипт AutoUpgradeCards.luac от Stalin. Скрипт адаптирован под новый инвентарь. Чтобы скачать или обновить скрипт, откройте /ec, в поиске введите AutoUpgradeCards и нажмите «Обновить» или «Скачать»."
 }
