@@ -544,7 +544,7 @@
     },
     {
   "name": "Klad Helper",
-  "file": "Klad Helper.lua",
+  "file": "Klad Helper.luac",
   "description": "Автосбор призов из кладов, история наград и метки на карте, где возможно находится клад",
   "author": "Edward",
   "version": "1.0",
